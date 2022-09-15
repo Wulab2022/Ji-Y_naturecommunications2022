@@ -1,18 +1,18 @@
 ///////////////////////////////////////////////////////////////////////////
 //            'Dye Tracing Singnal Intensity Analyzer'                   //
-//  This is the imageJ macro that is allow to maesure the signal         //
+//  This is the imageJ macro that allows you to measure the signal       //
 //  intensity from Dye tracing images. Applicable Images have to be      //
 //  Red and Green merged image. Blue signal is ignored.                  //
-//	The images have to be applied by user. User need to choose the       //
+//	The images have to be applied by user. User need to choose the    //
 //  color you want to measure the intensity of signal. if User need to   //
-//  make the given plots smmother, Just select the values for Gaussian   //
-//  from Dialog tha t pops up when this macro start up.                  //
+//  make the given plots smoother, Just select the values for Gaussian   //
+//  from Dialog that pops up when this macro start up.                  //
 //  Given value of signal intensity will be normalized. So the values    //
-// 	are within the range between 0-1.                                    //
+// 	are within the range between 0-1.                                //
 //                                                                       //
 //                                       Written by Sho Ota @ 07/27/2021 //
 //                                                                       //
-// @07/28/2021 : wrong scaling in graph Bug fixed                        //
+//                                                                       //
 //                                                                       //
 ///////////////////////////////////////////////////////////////////////////
 
